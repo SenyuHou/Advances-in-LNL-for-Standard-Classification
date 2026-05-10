@@ -1,0 +1,264 @@
+new_id,old_id,new_anchor,old_anchor,year,venue,title,paper_links,code_links,source_line
+P001,P001,paper-001,paper-001,2026,ICLR 2026,Enhancing Learning with Noisy Labels via Rockafellian Relaxation.,https://openreview.net/forum?id=g4EpGiN5X3,,331
+P002,P002,paper-002,paper-002,2026,ICLR 2026,TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence.,https://openreview.net/forum?id=jSs8CDsF0A,,335
+P003,P003,paper-003,paper-003,2026,ICLR 2026,Resurfacing the Instance-only Dependent Label Noise Model through Loss Correction.,https://openreview.net/forum?id=tuvkrivvbG,,340
+P004,P014,paper-004,paper-014,2026,CVPR 2026,Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis.,https://arxiv.org/abs/2603.12997,,410
+P005,P015,paper-005,paper-015,2026,CVPR 2026,Debiased Sample Selection for Learning with Noisy Labels.,https://www.eric-weiwei.com/,,415
+P006,P019,paper-006,paper-019,2026,AAAI 2026,Leveraging Dissimilarity Invariance as a Robust Anchor for Learning with Noisy Labels.,https://ojs.aaai.org/index.php/AAAI/article/view/37381,,442
+P007,P020,paper-007,paper-020,2026,AAAI 2026,On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD.,https://arxiv.org/abs/2603.10397,,447
+P008,P021,paper-008,paper-021,2026,AAAI 2026,Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning.,https://arxiv.org/abs/2512.10573,,452
+P009,P032,paper-009,paper-032,2026,Top Journals 2026,Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2025.3649111,,523
+P010,P033,paper-010,paper-033,2026,Top Journals 2026,Affinity-aware Uncertainty Quantification for Learning with Noisy Labels. (Published on Pattern Recognition),https://www.sciencedirect.com/science/article/pii/S0031320325011586,,527
+P011,P036,paper-011,paper-036,2025,NeurIPS 2025,Learning to Clean: Reinforcement Learning for Noisy Label Correction.,https://nips.cc/virtual/2025/poster/115438,,547
+P012,P037,paper-012,paper-037,2025,NeurIPS 2025,Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.,https://neurips.cc/virtual/2025/poster/118281,,551
+P013,P038,paper-013,paper-038,2025,NeurIPS 2025,Handling Label Noise via Instance-Level Difficulty Modeling and Dynamic Optimization.,https://nips.cc/virtual/2025/poster/116524,https://github.com/iTheresaApocalypse/IDO,555
+P014,P039,paper-014,paper-039,2025,NeurIPS 2025,Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing.,https://neurips.cc/virtual/2025/poster/116800,,559
+P015,P046,paper-015,paper-046,2025,ICML 2025,On the Role of Label Noise in the Feature Learning Process.,https://proceedings.mlr.press/v267/han25c.html,,601
+P016,P047,paper-016,paper-047,2025,ICML 2025,Retraining with Predicted Hard Labels Provably Increases Model Accuracy.,https://proceedings.mlr.press/v267/das25b.html,,606
+P017,P064,paper-017,paper-064,2025,ICCV 2025,CA2C: A Prior-Knowledge-Free Approach for Robust Label Noise Learning via Asymmetric Co-learning and Co-training.,https://openaccess.thecvf.com/content/ICCV2025/html/Sheng_CA2C_A_Prior-Knowledge-Free_Approach_for_Robust_Label_Noise_Learning_via_ICCV_2025_paper.html,,715
+P018,P065,paper-018,paper-065,2025,ICCV 2025,Meta-Learning Dynamic Center Distance: Hard Sample Mining for Learning with Noisy Labels.,https://openaccess.thecvf.com/content/ICCV2025/html/Mu_Meta-Learning_Dynamic_Center_Distance_Hard_Sample_Mining_for_Learning_with_ICCV_2025_paper.html,,720
+P019,P066,paper-019,paper-066,2025,ICCV 2025,Joint Asymmetric Loss for Learning with Noisy Labels.,https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Joint_Asymmetric_Loss_for_Learning_with_Noisy_Labels_ICCV_2025_paper.html,https://github.com/cswjl/joint-asymmetric-loss,725
+P020,P070,paper-020,paper-070,2025,AAAI 2025,Combating Semantic Contamination in Learning with Label Noise.,https://ojs.aaai.org/index.php/AAAI/article/view/32293,,752
+P021,P071,paper-021,paper-071,2025,AAAI 2025,Enhancing Noise-Robust Losses for Large-Scale Noisy Data Learning.,https://ojs.aaai.org/index.php/AAAI/article/view/32752,,757
+P022,P072,paper-022,paper-072,2025,AAAI 2025,SAP: Corrective Machine Unlearning with Scaled Activation Projection for Label Noise Robustness.,https://ojs.aaai.org/index.php/AAAI/article/view/33972,,761
+P023,P073,paper-023,paper-073,2025,AAAI 2025,Learning Causal Transition Matrix for Instance-dependent Label Noise.,https://arxiv.org/abs/2412.13516,,767
+P024,P074,paper-024,paper-074,2025,AAAI 2025,Label Noise Correction via Fuzzy Learning Machine.,https://ojs.aaai.org/index.php/AAAI/article/view/34055,,771
+P025,P075,paper-025,paper-075,2025,AAAI 2025,Enhanced Sample Selection with Confidence Tracking: Identifying Correctly Labeled Yet Hard-to-Learn Samples in Noisy Data.,https://arxiv.org/abs/2504.17474,,776
+P026,P076,paper-026,paper-076,2025,AAAI 2025,Noisy Label Calibration for Multi-View Classification.,https://ojs.aaai.org/index.php/AAAI/article/view/35485/37640,,781
+P027,P077,paper-027,paper-077,2025,AAAI 2025,Revisiting Interpolation for Noisy Label Correction.,https://ojs.aaai.org/index.php/AAAI/article/view/35489,,785
+P028,P078,paper-028,paper-078,2025,AAAI 2025,Learning from Noisy Labels via Self-Taught On-the-Fly Meta Loss Rescaling.,https://arxiv.org/abs/2412.12955,,790
+P029,P092,paper-029,paper-092,2025,Top Journals 2025,SplitNet: Learnable Clean-Noisy Label Splitting for Learning with Noisy Labels. (Published on IJCV),https://link.springer.com/article/10.1007/s11263-024-02187-4,,884
+P030,P093,paper-030,paper-093,2025,Top Journals 2025,Improving the Instance-Dependent Transition Matrix Estimation by Exploiting Self-Supervised Learning. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2025.3595613,,888
+P031,P097,paper-031,paper-097,2024,Neurips 2024,Learning the Latent Causal Structure for Modeling Label Noise.,https://nips.cc/virtual/2024/poster/93700,,912
+P032,P098,paper-032,paper-098,2024,Neurips 2024,Learning from Noisy Labels via Conditional Distributionally Robust Optimization.,https://nips.cc/virtual/2024/poster/96820,,916
+P033,P099,paper-033,paper-099,2024,Neurips 2024,Label Noise: Ignorance Is Bliss.,https://nips.cc/virtual/2024/poster/94205,,920
+P034,P113,paper-034,paper-113,2024,ICML 2024,Pi-DUAL: Using privileged information to distinguish clean from noisy labels.,https://proceedings.mlr.press/v235/wang24bb.html,,999
+P035,P114,paper-035,paper-114,2024,ICML 2024,Self-cognitive Denoising in the Presence of Multiple Noisy Label Sources.,https://proceedings.mlr.press/v235/sun24o.html,,1003
+P036,P115,paper-036,paper-115,2024,ICML 2024,(KDD 2025) CLID-MU: Cross-Layer Information Divergence Based Meta Update Strategy for Learning with Noisy Labels.,https://doi.org/10.1145/3711896.3736880,,1007
+P037,P116,paper-037,paper-116,2024,ICML 2024,"(IJCAI 2025) COLUR: Confidence-Oriented Learning, Unlearning and Relearning with Noisy-Label Data for Model Restoration and Refinement.",https://www.ijcai.org/proceedings/2025/1038,,1012
+P038,P134,paper-038,paper-134,2024,ICLR 2024,Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks.,https://openreview.net/forum?id=TjhUtloBZU,,1111
+P039,P135,paper-039,paper-135,2024,ICLR 2024,Early Stopping Against Label Noise Without Validation Data.,https://openreview.net/forum?id=CMzF2aOfqp,,1116
+P040,P136,paper-040,paper-136,2024,ICLR 2024,Why is SAM Robust to Label Noise?,https://openreview.net/forum?id=3aZCPl3ZvR,,1120
+P041,P137,paper-041,paper-137,2024,ICLR 2024,Dirichlet-based Per-Sample Weighting by Transition Matrix for Noisy Label Learning.,https://openreview.net/forum?id=A4mJuFRMN8,,1125
+P042,P148,paper-042,paper-148,2024,CVPR 2024,Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning.,https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Estimating_Noisy_Class_Posterior_with_Part-level_Labels_for_Noisy_Label_CVPR_2024_paper.html,,1191
+P043,P149,paper-043,paper-149,2024,CVPR 2024,Learning with Structural Labels for Learning with Noisy Labels.,https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Learning_with_Structural_Labels_for_Learning_with_Noisy_Labels_CVPR_2024_paper.html,,1195
+P044,P150,paper-044,paper-150,2024,CVPR 2024,L2B: Learning to Bootstrap Robust Models for Combating Label Noise.,https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_L2B_Learning_to_Bootstrap_Robust_Models_for_Combating_Label_Noise_CVPR_2024_paper.html,,1199
+P045,P156,paper-045,paper-156,2024,ECCV 2024,Foster Adaptivity and Balance in Learning with Noisy Labels.,https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3908_ECCV_2024_paper.php,,1239
+P046,P157,paper-046,paper-157,2024,ECCV 2024,LNL+K: Enhancing Learning with Noisy Labels Through Noise Source Knowledge Integration.,https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7862_ECCV_2024_paper.php,,1243
+P047,P158,paper-047,paper-158,2024,ECCV 2024,MTaDCS: Moving Trace and Feature Density-based Confidence Sample Selection under Label Noise.,https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8968_ECCV_2024_paper.php,,1247
+P048,P165,paper-048,paper-165,2024,AAAI 2024,"Sxu Which Is More Effective in Label Noise Cleaning, Correction or Filtering?",https://ojs.aaai.org/index.php/AAAI/article/view/29183/30238,,1291
+P049,P166,paper-049,paper-166,2024,AAAI 2024,Tackling Instance-Dependent Label Noise with Class Rebalance and Geometric Regularization.,https://doi.org/10.1145/3637528.3671707,,1296
+P050,P167,paper-050,paper-167,2024,AAAI 2024,Regroup Median Loss for Combating Label Noise.,https://ojs.aaai.org/index.php/AAAI/article/view/29250,,1302
+P051,P168,paper-051,paper-168,2024,AAAI 2024,Mitigating Label Noise through Data Ambiguation.,https://ojs.aaai.org/index.php/AAAI/article/view/29286,,1306
+P052,P169,paper-052,paper-169,2024,AAAI 2024,Learning with Noisy Labels Using Hyperspherical Margin Weighting.,https://ojs.aaai.org/index.php/AAAI/article/view/29626,,1311
+P053,P170,paper-053,paper-170,2024,AAAI 2024,Dirichlet-Based Prediction Calibration for Learning with Noisy Labels.,https://ojs.aaai.org/index.php/AAAI/article/view/29672,,1316
+P054,P171,paper-054,paper-171,2024,AAAI 2024,Contrastive Credibility Propagation for Reliable Semi-supervised Learning.,https://ojs.aaai.org/index.php/AAAI/article/view/30124,,1321
+P055,P184,paper-055,paper-184,2024,IJCAI 2024,Fine-tuning Pre-trained Models for Robustness under Noisy Labels.,https://www.ijcai.org/proceedings/2024/403,,1388
+P056,P193,paper-056,paper-193,2024,ACM MM 2024,Enhancing Robustness in Learning with Noisy Labels: An Asymmetric Co-Training Approach.,https://doi.org/10.1145/3664647.3680924,,1453
+P057,P194,paper-057,paper-194,2024,ACM MM 2024,Mitigate Catastrophic Remembering via Continual Knowledge Purification for Noisy Label Learning.,https://doi.org/10.1145/3664647.3680975,,1458
+P058,P196,paper-058,paper-196,2024,Top Journals 2024,Tackling Noisy Labels with Network Parameter Additive Decomposition. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2024.3367129,,1473
+P059,P197,paper-059,paper-197,2024,Top Journals 2024,A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2024.3433918,,1477
+P060,P198,paper-060,paper-198,2024,Top Journals 2024,BadLabel: A Robust Perspective on Evaluating and Enhancing Label-noise Learning. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2024.3439233,,1483
+P061,P199,paper-061,paper-199,2023,NeurIPS 2023,Robust Data Pruning under Label Noise via Maximizing Re-labeling Accuracy.,https://openreview.net/forum?id=xWCp0uLcpG,,1495
+P062,P200,paper-062,paper-200,2023,NeurIPS 2023,Subclass-Dominant Label Noise: A Counterexample for the Success of Early Stopping.,https://openreview.net/forum?id=kR21XsZeAr,https://github.com/tmllab/2023_NeurIPS_SDN,1500
+P063,P201,paper-063,paper-201,2023,NeurIPS 2023,Active Negative Loss Functions for Learning with Noisy Labels.,https://neurips.cc/virtual/2023/poster/71501,https://github.com/Virusdoll/Active-Negative-Loss,1505
+P064,P202,paper-064,paper-202,2023,NeurIPS 2023,Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?,https://arxiv.org/abs/2306.09955,,1509
+P065,P203,paper-065,paper-203,2023,NeurIPS 2023,CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels.,https://openreview.net/forum?id=y50AnAbKp1,https://github.com/changwxx/CSOT-for-LNL,1514
+P066,P204,paper-066,paper-204,2023,NeurIPS 2023,Label Poisoning is All You Need.,https://arxiv.org/abs/2310.18933,https://github.com/SewoongLab/FLIP,1518
+P067,P205,paper-067,paper-205,2023,NeurIPS 2023,IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers.,https://openreview.net/forum?id=No52399wXA,,1523
+P068,P219,paper-068,paper-219,2023,ICML 2023,Identifiability of Label Noise Transition Matrix.,https://proceedings.mlr.press/v202/liu23g,,1599
+P069,P220,paper-069,paper-220,2023,ICML 2023,Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise?,https://proceedings.mlr.press/v202/yao23a,,1604
+P070,P221,paper-070,paper-221,2023,ICML 2023,CrossSplit: Mitigating Label Noise Memorization through Data Splitting.,http://proceedings.mlr.press/v202/kim23a/kim23a.pdf,https://github.com/SAITPublic/CrossSplit,1609
+P071,P222,paper-071,paper-222,2023,ICML 2023,Understanding Self-Distillation in the Presence of Label Noise.,http://proceedings.mlr.press/v202/das23d/das23d.pdf,,1613
+P072,P223,paper-072,paper-223,2023,ICML 2023,When does Privileged information Explain Away Label Noise?,https://proceedings.mlr.press/v202/ortiz-jimenez23a,,1619
+P073,P224,paper-073,paper-224,2023,ICML 2023,Random Classification Noise does not defeat All Convex Potential Boosters Irrespective of Model Choice.,https://proceedings.mlr.press/v202/mansour23a.html,,1624
+P074,P225,paper-074,paper-225,2023,ICML 2023,"Label Distributionally Robust Losses for Multi-class Classification: Consistency, Robustness and Adaptivity.",https://proceedings.mlr.press/v202/zhu23o.html,,1629
+P075,P232,paper-075,paper-232,2023,ICLR 2023,Mitigating Memorization of Noisy Labels via Regularization between Representations.,,,1673
+P076,P233,paper-076,paper-233,2023,ICLR 2023,On the Edge of Benign Overfitting: Label Noise and Overparameterization Level.,,,1678
+P077,P234,paper-077,paper-234,2023,ICLR 2023,Memorization-Dilation: Modeling Neural Collapse Under Noise.,,,1683
+P078,P235,paper-078,paper-235,2023,ICLR 2023,Quantifying and Mitigating the Impact of Label Errors on Model Disparity Metrics.,,,1688
+P079,P236,paper-079,paper-236,2023,ICLR 2023,"A law of adversarial risk, interpolation, and label noise.",,,1693
+P080,P237,paper-080,paper-237,2023,ICLR 2023,SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning.,,,1698
+P081,P238,paper-081,paper-238,2023,ICLR 2023,MCAL: Minimum Cost Human-Machine Active Labeling.,,,1702
+P082,P257,paper-082,paper-257,2023,CVPR 2023,Twin Contrastive Learning with Noisy Labels.,https://arxiv.org/abs/2303.06930,https://github.com/Hzzone/TCL,1800
+P083,P258,paper-083,paper-258,2023,CVPR 2023,Learning from Noisy Labels with Decoupled Meta Label Purifier.,https://arxiv.org/abs/2302.06810,https://github.com/yuanpengtu/DMLP,1804
+P084,P259,paper-084,paper-259,2023,CVPR 2023,DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction.,https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf,https://github.com/jackyfl/disc,1809
+P085,P260,paper-085,paper-260,2023,CVPR 2023,Fine-Grained Classification with Noisy Labels.,https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Fine-Grained_Classification_With_Noisy_Labels_CVPR_2023_paper.pdf,,1814
+P086,P261,paper-086,paper-261,2023,CVPR 2023,OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels.,https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_OT-Filter_An_Optimal_Transport_Filter_for_Learning_With_Noisy_Labels_CVPR_2023_paper.pdf,,1818
+P087,P262,paper-087,paper-262,2023,CVPR 2023,How To Prevent the Continuous Damage of Noises To Model Training?,https://openaccess.thecvf.com/content/CVPR2023/html/Yu_How_To_Prevent_the_Continuous_Damage_of_Noises_To_Model_CVPR_2023_paper.html,,1822
+P088,P275,paper-088,paper-275,2023,ICCV 2023,PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels.,https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_PADDLES_Phase-Amplitude_Spectrum_Disentangled_Early_Stopping_for_Learning_with_Noisy_ICCV_2023_paper.pdf,https://github.com/CoderHHX/PADDLES,1906
+P089,P276,paper-089,paper-276,2023,ICCV 2023,Sample-wise Label Confidence Incorporation for Learning with Noisy Labels.,https://openaccess.thecvf.com/content/ICCV2023/papers/Ahn_Sample-wise_Label_Confidence_Incorporation_for_Learning_with_Noisy_Labels_ICCV_2023_paper.pdf,,1910
+P090,P277,paper-090,paper-277,2023,ICCV 2023,LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise.,https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_LA-Net_Landmark-Aware_Learning_for_Reliable_Facial_Expression_Recognition_under_Label_ICCV_2023_paper.pdf,,1914
+P091,P278,paper-091,paper-278,2023,ICCV 2023,Combating Noisy Labels with Sample Selection by Mining High-Discrepancy Examples.,https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Combating_Noisy_Labels_with_Sample_Selection_by_Mining_High-Discrepancy_Examples_ICCV_2023_paper.pdf,https://github.com/xiaoboxia/CoDis,1918
+P092,P279,paper-092,paper-279,2023,ICCV 2023,RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels.,https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_RankMatch_Fostering_Confidence_and_Consistency_in_Learning_with_Noisy_Labels_ICCV_2023_paper.pdf,,1922
+P093,P280,paper-093,paper-280,2023,ICCV 2023,Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.,https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.html,,1927
+P094,P281,paper-094,paper-281,2023,ICCV 2023,Enhanced Meta Label Correction for Coping with Label Corruption.,https://openaccess.thecvf.com/content/ICCV2023/html/Taraday_Enhanced_Meta_Label_Correction_for_Coping_with_Label_Corruption_ICCV_2023_paper.html,,1931
+P095,P294,paper-095,paper-294,2023,AAAI 2023,Class-Independent Regularization for Learning with Noisy Labels.,https://ojs.aaai.org/index.php/AAAI/article/view/25434,,2004
+P096,P295,paper-096,paper-295,2023,AAAI 2023,A Gift from Label Smoothing: Robust Training with Adaptive Label Smoothing via Auxiliary Classifier under Label Noise.,https://ojs.aaai.org/index.php/AAAI/article/view/26004,,2008
+P097,P296,paper-097,paper-296,2023,AAAI 2023,Learning from Training Dynamics: Identifying Mislabeled Data beyond Manually Designed Features.,https://ojs.aaai.org/index.php/AAAI/article/view/25972,,2013
+P098,P297,paper-098,paper-297,2023,AAAI 2023,USDNL: Uncertainty-Based Single Dropout in Noisy Label Learning.,https://ojs.aaai.org/index.php/AAAI/article/view/26264,,2018
+P099,P298,paper-099,paper-298,2023,AAAI 2023,Two Wrongs Don't Make a Right: Combating Confirmation Bias in Learning with Label Noise.,https://ojs.aaai.org/index.php/AAAI/article/view/26725,,2022
+P100,P299,paper-100,paper-299,2023,AAAI 2023,Rethinking Label Refurbishment: Model Robustness under Label Noise.,https://ojs.aaai.org/index.php/AAAI/article/view/26751,,2026
+P101,P301,paper-101,paper-301,2023,IJCAI 2023,MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels.,https://www.ijcai.org/proceedings/2023/92,,2046
+P102,P302,paper-102,paper-302,2023,IJCAI 2023,ProMix: Combating Label Noise via Maximizing Clean Sample Utility.,https://www.ijcai.org/proceedings/2023/494,,2051
+P103,P321,paper-103,paper-321,2023,Top Journals 2023,A Parametrical Model for Instance-Dependent Label Noise. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2023.3301876,,2169
+P104,P322,paper-104,paper-322,2023,Top Journals 2023,Regularly Truncated M-Estimators for Learning With Noisy Labels. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2023.3347850,,2174
+P105,P323,paper-105,paper-323,2023,Top Journals 2023,Learning to Learn From Noisy Labeled Data. (Published on TKDE),https://doi.org/10.1109/TKDE.2023.3271677,,2178
+P106,P326,paper-106,paper-326,2022,NeurIPS 2022,Class-Dependent Label-Noise Learning with Cycle-Consistency Regularization.,,,2201
+P107,P327,paper-107,paper-327,2022,NeurIPS 2022,Robustness to Label Noise Depends on the Shape of the Noise Distribution.,,,2206
+P108,P328,paper-108,paper-328,2022,NeurIPS 2022,Noise Attention Learning: Enhancing Noise Robustness by Gradient Scaling.,https://proceedings.neurips.cc/paper_files/paper/2022/hash/92864e1191ed272deb0914b3bb50f97c-Abstract-Conference.html,,2211
+P109,P329,paper-109,paper-329,2022,NeurIPS 2022,Confidence-based Reliable Learning under Dual Noises.,https://proceedings.neurips.cc/paper_files/paper/2022/hash/e444859b2a22df6b56af9381ad1e9480-Abstract-Conference.html,,2216
+P110,P336,paper-110,paper-336,2022,ICML 2022,To Smooth or Not? When Label Smoothing Meets Noisy Labels.,https://arxiv.org/abs/2106.04149,https://github.com/UCSC-REAL/negative-label-smoothing,2257
+P111,P337,paper-111,paper-337,2022,ICML 2022,Detecting Corrupted Labels Without Training a Model to Predict.,https://arxiv.org/abs/2110.06283,https://github.com/UCSC-REAL/SimiFeat,2261
+P112,P338,paper-112,paper-338,2022,ICML 2022,Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features.,https://arxiv.org/abs/2202.01273,,2266
+P113,P339,paper-113,paper-339,2022,ICML 2022,Robust Training under Label Noise by Over-parameterization.,https://arxiv.org/abs/2202.14026,https://github.com/shengliu66/SOP,2271
+P114,P340,paper-114,paper-340,2022,ICML 2022,Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network.,https://proceedings.mlr.press/v162/yang22p.html,,2276
+P115,P341,paper-115,paper-341,2022,ICML 2022,Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.,,,2280
+P116,P342,paper-116,paper-342,2022,ICML 2022,Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile.,https://arxiv.org/pdf/2206.01944v1.pdf,https://github.com/anfeather/eigen-reptile,2284
+P117,P343,paper-117,paper-343,2022,ICML 2022,Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.,,,2288
+P118,P344,paper-118,paper-344,2022,ICML 2022,Transfer and Marginalize: Explaining Away Label Noise with Privileged Information.,https://proceedings.mlr.press/v162/collier22a.html,,2292
+P119,P347,paper-119,paper-347,2022,ICLR 2022,Resolving Training Biases via Influence-based Data Relabeling.,,,2315
+P120,P348,paper-120,paper-348,2022,ICLR 2022,Sample Selection with Uncertainty of Losses for Learning with Noisy Labels.,,,2319
+P121,P349,paper-121,paper-349,2022,ICLR 2022,An Information Fusion Approach to Learning with Instance-Dependent Label Noise.,,,2324
+P122,P350,paper-122,paper-350,2022,ICLR 2022,Meta Discovery: Learning to Discover Novel Classes given Very Limited Data.,,,2328
+P123,P353,paper-123,paper-353,2022,CVPR 2022,Selective-Supervised Contrastive Learning with Noisy Labels.,https://arxiv.org/abs/2203.04181,https://github.com/ShikunLi/Sel-CL,2350
+P124,P354,paper-124,paper-354,2022,CVPR 2022,Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning.,https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Noise_Is_Also_Useful_Negative_Correlation-Steered_Latent_Contrastive_Learning_CVPR_2022_paper.html,,2355
+P125,P355,paper-125,paper-355,2022,CVPR 2022,PNP: Robust Learning From Noisy Labels by Probabilistic Noise Prediction.,https://openaccess.thecvf.com/content/CVPR2022/html/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.html,,2359
+P126,P356,paper-126,paper-356,2022,CVPR 2022,UniCon: Combating Label Noise Through Uniform Selection and Contrastive Learning.,https://openaccess.thecvf.com/content/CVPR2022/html/Karim_UniCon_Combating_Label_Noise_Through_Uniform_Selection_and_Contrastive_Learning_CVPR_2022_paper.html,,2364
+P127,P357,paper-127,paper-357,2022,CVPR 2022,Instance-Dependent Label-Noise Learning With Manifold-Regularized Transition Matrix Estimation.,https://openaccess.thecvf.com/content/CVPR2022/html/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.html,,2369
+P128,P366,paper-128,paper-366,2022,ECCV 2022,Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions.,https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720639.pdf,https://github.com/toharl/soft,2421
+P129,P367,paper-129,paper-367,2022,ECCV 2022,Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition.,https://arxiv.org/abs/2207.10299,https://github.com/zyh-uaiaaaa/Erasing-Attention-Consistency,2425
+P130,P368,paper-130,paper-368,2022,ECCV 2022,Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels.,https://arxiv.org/abs/2207.14476,https://github.com/uitrbn/TSCSI_IDN,2430
+P131,P369,paper-131,paper-369,2022,ECCV 2022,Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection.,https://arxiv.org/abs/2111.14932,https://github.com/hyperconnect/FasTEN,2436
+P132,P370,paper-132,paper-370,2022,ECCV 2022,Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization.,https://arxiv.org/abs/2208.11351,,2441
+P133,P371,paper-133,paper-371,2022,ECCV 2022,Active label correction using robust parameter update and entropy propagation.,https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810001.pdf,,2445
+P134,P382,paper-134,paper-382,2022,AAAI 2022,Noise-Robust Learning from Multiple Unsupervised Sources of Inferred Labels.,https://ojs.aaai.org/index.php/AAAI/article/view/20806,,2511
+P135,P389,paper-135,paper-389,2022,IJCAI 2022,SELC: Self-Ensemble Label Correction Improves Learning with Noisy Labels.,https://www.ijcai.org/proceedings/2022/455,,2555
+P136,P398,paper-136,paper-398,2022,ArXiv 2022,Constrained Instance and Class Reweighting for Robust Learning under Label Noise.,https://arxiv.org/abs/2111.05428,,2620
+P137,P399,paper-137,paper-399,2022,ArXiv 2022,Do We Need to Penalize Variance of Losses for Learning with Label Noise?.,https://arxiv.org/abs/2201.12739,,2624
+P138,P400,paper-138,paper-400,2022,ArXiv 2022,On Learning Contrastive Representations for Learning with Noisy Labels.,https://arxiv.org/abs/2203.01785,,2629
+P139,P401,paper-139,paper-401,2022,ArXiv 2022,Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data.,"https://arxiv.org/abs/2202.05928#:~:text=11%20Feb%202022%5D-,Benign%20Overfitting%20without%20Linearity%3A%20Neural%20Network%20Classifiers%20Trained%20by,Descent%20for%20Noisy%20Linear%20Data&text=Abstract%3A%20Benign%20overfitting%2C%20the%20phenomenon,models%20trained%20with%20gradient%20descent.",,2633
+P140,P402,paper-140,paper-402,2022,ArXiv 2022,Convolutional Network Fabric Pruning With Label Noise.,https://arxiv.org/abs/2202.07268,,2638
+P141,P403,paper-141,paper-403,2022,ArXiv 2022,Learning to Bootstrap for Combating Label Noise.,https://arxiv.org/abs/2202.04291,,2642
+P142,P404,paper-142,paper-404,2022,ArXiv 2022,Learning with Neighbor Consistency for Noisy Labels.,https://arxiv.org/abs/2202.02200,,2647
+P143,P405,paper-143,paper-405,2022,ArXiv 2022,Investigating Why Contrastive Learning Benefits Robustness Against Label Noise.,https://arxiv.org/abs/2201.12498,,2652
+P144,P406,paper-144,paper-406,2022,ArXiv 2022,GMM Discriminant Analysis with Noisy Label for Each Class.,https://arxiv.org/abs/2201.10242,,2657
+P145,P411,paper-145,paper-411,2022,Top Journals 2022,Wasserstein Adversarial Regularization for Learning with Label Noise. (Published on TPAMI),https://doi.org/10.1109/TPAMI.2022.3156685,,2688
+P146,P413,paper-146,paper-413,2021,NeurIPS 2021,Can Less be More? When Increasing-to-Balancing Label Noise Rates Considered Beneficial.,"https://arxiv.org/abs/2107.05913#:~:text=We%20are%20primarily%20inspired%20by,fairness%20guarantees%20against%20label%20bias.",https://github.com/UCSC-REAL/CanLessBeMore,2705
+P147,P414,paper-147,paper-414,2021,NeurIPS 2021,Understanding and Improving Early Stopping for Learning with Noisy Labels.,https://arxiv.org/abs/2106.15853,https://github.com/tmllab/PES,2710
+P148,P415,paper-148,paper-415,2021,NeurIPS 2021,How does a Neural Network's Architecture Impact its Robustness to Noisy Labels?,https://openreview.net/forum?id=Ir-WwGboFN-,https://github.com/jinglingli/alignment_noisy_label,2715
+P149,P416,paper-149,paper-416,2021,NeurIPS 2021,FINE Samples for Learning with Noisy Labels.,https://arxiv.org/pdf/2102.11628v3.pdf,https://github.com/Kthyeon/FINE_official,2720
+P150,P417,paper-150,paper-417,2021,NeurIPS 2021,Label Noise SGD Provably Prefers Flat Global Minimizers.,https://arxiv.org/abs/2106.06530,https://github.com/adamian98/LabelNoiseFlatMinimizers,2724
+P151,P418,paper-151,paper-418,2021,NeurIPS 2021,Improved Regularization and Robustness for Fine-tuning in Neural Networks.,https://openreview.net/forum?id=QX32YlxrQJc,https://github.com/NEU-StatsML-Research/Regularized-Self-Labeling,2729
+P152,P419,paper-152,paper-419,2021,NeurIPS 2021,Instance-dependent Label-noise Learning under a Structural Causal Model.,https://arxiv.org/abs/2109.02986,,2733
+P153,P420,paper-153,paper-420,2021,NeurIPS 2021,Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification.,https://arxiv.org/abs/2111.00928,,2737
+P154,P421,paper-154,paper-421,2021,NeurIPS 2021,DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled Samples.,https://arxiv.org/abs/2110.13740,,2742
+P155,P428,paper-155,paper-428,2021,ICML 2021,Understanding Instance-Level Label Noise: Disparate Impacts and Treatments.,https://proceedings.mlr.press/v139/liu21a.html,,2783
+P156,P429,paper-156,paper-429,2021,ICML 2021,Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels.,https://arxiv.org/pdf/2102.05291.pdf,https://github.com/zwzhu-d/HOC,2788
+P157,P430,paper-157,paper-430,2021,ICML 2021,Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization.,https://arxiv.org/pdf/2102.02414v2.pdf,https://github.com/YivanZhang/lio,2792
+P158,P431,paper-158,paper-431,2021,ICML 2021,Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels.,https://arxiv.org/abs/2006.07831,,2796
+P159,P432,paper-159,paper-432,2021,ICML 2021,Provably End-to-end Label-noise Learning without Anchor Points.,https://arxiv.org/pdf/2102.02400.pdf,,2800
+P160,P433,paper-160,paper-433,2021,ICML 2021,Asymmetric Loss Functions for Learning with Noisy Labels.,https://arxiv.org/pdf/2106.03110v1.pdf,https://github.com/hitcszx/ALFs,2805
+P161,P434,paper-161,paper-434,2021,ICML 2021,Confidence Scores Make Instance-dependent Label-noise Learning Possible.,https://arxiv.org/abs/2001.03772,,2810
+P162,P435,paper-162,paper-435,2021,ICML 2021,Learning from Noisy Labels with No Change to the Training Process.,http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf,,2815
+P163,P448,paper-163,paper-448,2021,ICLR 2021,When Optimizing f-Divergence is Robust with Label Noise.,https://openreview.net/pdf?id=WesiCoRVQ15,https://github.com/weijiaheng/Robust-f-divergence-measures,2889
+P164,P449,paper-164,paper-449,2021,ICLR 2021,Learning with Instance-Dependent Label Noise: A Sample Sieve Approach.,https://openreview.net/pdf?id=2VXyy9mIyU3,https://github.com/haochenglouis/cores,2893
+P165,P450,paper-165,paper-450,2021,ICLR 2021,Noise against noise: stochastic label noise helps combat inherent label noise.,https://openreview.net/pdf?id=80FMcTSZ6J0,https://github.com/chenpf1025/SLN,2898
+P166,P451,paper-166,paper-451,2021,ICLR 2021,Learning with Feature-Dependent Label Noise: A Progressive Approach.,https://openreview.net/pdf?id=ZPa2SyGcbwh,https://github.com/pxiangwu/PLC,2902
+P167,P452,paper-167,paper-452,2021,ICLR 2021,Robust early-learning: Hindering the memorization of noisy labels.,https://openreview.net/pdf?id=Eql5b1_hTE4,https://github.com/xiaoboxia/CDR,2907
+P168,P457,paper-168,paper-457,2021,CVPR 2021,A Second-Order Approach to Learning with Instance-Dependent Label Noise.,https://arxiv.org/abs/2012.11854,https://github.com/UCSC-REAL/CAL,2937
+P169,P458,paper-169,paper-458,2021,CVPR 2021,Multi-Objective Interpolation Training for Robustness to Label Noise.,https://arxiv.org/abs/2012.04462,https://git.io/JI40X,2941
+P170,P459,paper-170,paper-459,2021,CVPR 2021,Augmentation Strategies for Learning with Noisy Labels.,https://arxiv.org/abs/2103.02130,https://github.com/KentoNishi/Augmentation-for-LNL,2945
+P171,P460,paper-171,paper-460,2021,CVPR 2021,Jo-SRC: A Contrastive Approach for Combating Noisy Labels.,https://arxiv.org/pdf/2103.13029.pdf,https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC,2949
+P172,P461,paper-172,paper-461,2021,CVPR 2021,Partially View-aligned Representation Learning with Noise-robust Contrastive Loss.,https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf,https://github.com/XLearning-SCU/2021-CVPR-MvCLN,2953
+P173,P462,paper-173,paper-462,2021,CVPR 2021,Correlated Input-Dependent Label Noise in Large-Scale Image Classification.,https://arxiv.org/abs/2105.10305,,2957
+P174,P463,paper-174,paper-463,2021,CVPR 2021,Faster Meta Update Strategy for Noise-Robust Deep Learning.,https://github.com/youjiangxu/FaMUS/tree/main/paper,https://github.com/youjiangxu/FaMUS,2961
+P175,P464,paper-175,paper-464,2021,CVPR 2021,Joint Negative and Positive Learning for Noisy Labels.,https://arxiv.org/abs/2104.06574,,2965
+P176,P465,paper-176,paper-465,2021,CVPR 2021,Faster Meta Update Strategy for Noise-Robust Deep Learning.,https://arxiv.org/abs/2104.15092,,2969
+P177,P466,paper-177,paper-466,2021,CVPR 2021,AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation.,https://arxiv.org/abs/2103.05863,https://github.com/gudovskiy/autodo,2973
+P178,P467,paper-178,paper-467,2021,CVPR 2021,All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training.,https://arxiv.org/abs/2104.05248,https://github.com/islam-nassar/semco,2979
+P179,P468,paper-179,paper-468,2021,CVPR 2021,ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks.,https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ProSelfLC_Progressive_Self_Label_Correction_for_Training_Robust_Deep_Neural_CVPR_2021_paper.html,,2983
+P180,P478,paper-180,paper-478,2021,ICCV 2021,Me-Momentum: Extracting Hard Confident Examples From Noisily Labeled Data.,https://openaccess.thecvf.com/content/ICCV2021/html/Bai_Me-Momentum_Extracting_Hard_Confident_Examples_From_Noisily_Labeled_Data_ICCV_2021_paper.html,,3035
+P181,P479,paper-181,paper-479,2021,ICCV 2021,Searching for Robustness: Loss Learning for Noisy Classification Tasks.,https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Searching_for_Robustness_Loss_Learning_for_Noisy_Classification_Tasks_ICCV_2021_paper.html,,3039
+P182,P480,paper-182,paper-480,2021,ICCV 2021,Learning From Noisy Data With Robust Representation Learning.,https://openaccess.thecvf.com/content/ICCV2021/html/Li_Learning_From_Noisy_Data_With_Robust_Representation_Learning_ICCV_2021_paper.html,,3043
+P183,P481,paper-183,paper-481,2021,ICCV 2021,Switchable K-Class Hyperplanes for Noise-Robust Representation Learning.,https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Switchable_K-Class_Hyperplanes_for_Noise-Robust_Representation_Learning_ICCV_2021_paper.html,,3047
+P184,P485,paper-184,paper-485,2021,AAAI 2021,Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise.,https://arxiv.org/abs/2012.05458,https://github.com/chenpf1025/IDN,3077
+P185,P486,paper-185,paper-486,2021,AAAI 2021,Learning to Purify Noisy Labels via Meta Soft Label Corrector.,https://arxiv.org/abs/2008.00627,https://github.com/WuYichen-97/Learning-to-Purify-Noisy-Labels-via-Meta-Soft-Label-Corrector,3081
+P186,P487,paper-186,paper-487,2021,AAAI 2021,Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.,https://arxiv.org/abs/2012.04193,https://github.com/chenpf1025/RobustnessAccuracy,3086
+P187,P488,paper-187,paper-488,2021,AAAI 2021,Learning from Noisy Labels with Complementary Loss Functions.,http://palm.seu.edu.cn/zhangml/files/AAAI'21a.pdf,https://github.com/dengbaowang/CompLossForNoisyLabels,3091
+P188,P489,paper-188,paper-489,2021,AAAI 2021,Analysing the Noise Model Error for Realistic Noisy Label Data.,https://arxiv.org/abs/2101.09763,https://github.com/uds-lsv/noise-estimation,3095
+P189,P490,paper-189,paper-490,2021,AAAI 2021,Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model.,https://niug1984.github.io/paper/wang_aaai21.pdf,,3099
+P190,P491,paper-190,paper-491,2021,AAAI 2021,Learning with Group Noise.,https://gcatnjust.github.io/ChenGong/paper/wang_aaai21_2.pdf,,3103
+P191,P492,paper-191,paper-492,2021,AAAI 2021,Meta Label Correction for Noisy Label Learning.,https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/,,3107
+P192,P493,paper-192,paper-493,2021,IJCAI 2021,Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion.,https://www.ijcai.org/proceedings/2021/0340.pdf,,3119
+P193,P496,paper-193,paper-496,2021,KDD 2021,Robust Learning by Self-Transition for Handling Noisy Labels.,https://doi.org/10.1145/3447548.3467222,,3141
+P194,P498,paper-194,paper-498,2021,ACM MM 2021,Co-learning: Learning from Noisy Labels with Self-supervision.,https://doi.org/10.1145/3474085.3475622,,3156
+P195,P499,paper-195,paper-499,2021,ArXiv 2021,Demystifying How Self-Supervised Features Improve Training from Noisy Labels.,https://arxiv.org/pdf/2110.09022.pdf,,3167
+P196,P500,paper-196,paper-500,2021,ArXiv 2021,A Theoretical Analysis of Learning with Noisily Labeled Data.,https://arxiv.org/abs/2104.04114,,3171
+P197,P501,paper-197,paper-501,2021,ArXiv 2021,Analysis of classifiers robust to noisy labels.,https://arxiv.org/abs/2106.00274,,3176
+P198,P502,paper-198,paper-502,2021,ArXiv 2021,Alleviating Noisy-label Effects in Image Classification via Probability Transition Matrix.,https://arxiv.org/abs/2110.08866,,3181
+P199,P503,paper-199,paper-503,2021,ArXiv 2021,Learning with Noisy Labels by Targeted Relabeling.,https://arxiv.org/abs/2110.08355,,3185
+P200,P504,paper-200,paper-504,2021,ArXiv 2021,Contrast to Divide: Self-Supervised Pre-Training for Learning with Noisy Labels.,https://arxiv.org/pdf/2103.13646.pdf,https://github.com/ContrastToDivide/C2D,3189
+P201,P505,paper-201,paper-505,2021,ArXiv 2021,Exponentiated Gradient Reweighting for Robust Training Under Label Noise and Beyond.,https://arxiv.org/pdf/2104.01493.pdf,,3193
+P202,P506,paper-202,paper-506,2021,ArXiv 2021,Learning from Noisy Labels via Dynamic Loss Thresholding.,https://arxiv.org/pdf/2104.02570.pdf,,3197
+P203,P507,paper-203,paper-507,2021,ArXiv 2021,Transform consistency for learning with noisy labels.,https://arxiv.org/pdf/2103.13872.pdf,,3201
+P204,P508,paper-204,paper-508,2021,ArXiv 2021,Learning to Combat Noisy Labels via Classification Margins.,https://arxiv.org/pdf/2102.00751.pdf,,3205
+P205,P509,paper-205,paper-509,2021,ArXiv 2021,DST: Data Selection and joint Training for Learning with Noisy Labels.,https://arxiv.org/pdf/2103.00813.pdf,,3209
+P206,P510,paper-206,paper-510,2021,ArXiv 2021,LongReMix: Robust Learning with High Confidence Samples in a Noisy Label Environment.,https://arxiv.org/pdf/2103.04173.pdf,,3213
+P207,P511,paper-207,paper-511,2021,ArXiv 2021,Ensemble Learning with Manifold-Based Data Splitting for Noisy Label Correction.,https://arxiv.org/pdf/2103.07641.pdf,,3217
+P208,P512,paper-208,paper-512,2021,ArXiv 2021,On the Robustness of Monte Carlo Dropout Trained with Noisy Labels.,https://arxiv.org/pdf/2103.12002.pdf,,3221
+P209,P513,paper-209,paper-513,2021,ArXiv 2021,Approximating Instance-Dependent Noise via Instance-Confidence Embedding.,https://arxiv.org/abs/2103.13569,,3225
+P210,P514,paper-210,paper-514,2021,ArXiv 2021,Friends and Foes in Learning from Noisy Labels.,https://arxiv.org/pdf/2103.15055.pdf,,3231
+P211,P515,paper-211,paper-515,2021,ArXiv 2021,A Fremework Using Contrastive Learning for Classification with Noisy Labels.,https://arxiv.org/pdf/2104.09563.pdf,,3236
+P212,P516,paper-212,paper-516,2021,ArXiv 2021,Contrastive Learning Improves Model Robustness Under Label Noise.,https://arxiv.org/pdf/2104.08984.pdf,https://github.com/arghosh/noisy_label_pretrain,3240
+P213,P517,paper-213,paper-517,2021,ArXiv 2021,Compensation Learning.,https://arxiv.org/pdf/2107.11921.pdf,,3244
+P214,P518,paper-214,paper-518,2021,ArXiv 2021,kNet: A Deep kNN Network To Handle Label Noise.,https://arxiv.org/pdf/2107.09735.pdf,,3248
+P215,P519,paper-215,paper-519,2021,ArXiv 2021,Memorization in Deep Neural Networks: Does the Loss Function matter?.,https://arxiv.org/pdf/2107.09957.pdf,,3252
+P216,P520,paper-216,paper-520,2021,ArXiv 2021,Mitigating Memorization in Sample Selection for Learning with Noisy Labels.,https://arxiv.org/pdf/2107.07041.pdf,,3257
+P217,P521,paper-217,paper-521,2021,ArXiv 2021,P-DIFF: Learning Classifier with Noisy Labels based on Probability Difference Distributions.,https://arxiv.org/abs/2009.06382,https://github.com/fistyee/P-DIFF,3261
+P218,P522,paper-218,paper-522,2021,ArXiv 2021,Decoupling Representation and Classifier for Noisy Label Learning.,https://arxiv.org/pdf/2011.08145.pdf,,3265
+P219,P523,paper-219,paper-523,2021,ArXiv 2021,Contrastive Representations for Label Noise Require Fine-Tuning.,https://arxiv.org/pdf/2108.09154.pdf,,3269
+P220,P524,paper-220,paper-524,2021,ArXiv 2021,Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis.,https://arxiv.org/abs/2109.07509,,3273
+P221,P525,paper-221,paper-525,2021,ArXiv 2021,Robustness and reliability when training with noisy labels.,https://arxiv.org/pdf/2110.03321.pdf,,3278
+P222,P526,paper-222,paper-526,2021,ArXiv 2021,Consistency Regularization Can Improve Robustness to Label Noise.,https://arxiv.org/pdf/2110.01242.pdf,,3283
+P223,P563,paper-223,paper-563,2021,Other Conferences 2021,(ICCV 2021) Learning with Noisy Labels via Sparse Regularization.,https://arxiv.org/abs/2108.00192,,3462
+P224,P564,paper-224,paper-564,2021,Other Conferences 2021,(WACV 2022) Towards a Robust Differentiable Architecture Search under Label Noise.,https://arxiv.org/abs/2110.12197,,3466
+P225,P565,paper-225,paper-565,2021,Other Conferences 2021,(BMVC 2021) PropMix: Hard Sample Filtering and Proportional MixUp for Learning with Noisy Labels.,https://arxiv.org/abs/2110.11809,https://github.com/filipe-research/PropMix.,3470
+P226,P566,paper-226,paper-566,2021,Other Conferences 2021,(IJCAI2021 Workshop) An Ensemble Noise-Robust K-fold Cross-Validation Selection Method for Noisy Labels.,https://arxiv.org/abs/2107.02347,,3475
+P227,P569,paper-227,paper-569,2020,NIPS 2020,Part-dependent Label Noise: Towards Instance-dependent Label Noise.,https://papers.nips.cc/paper/2020/hash/5607fe8879e4fd269e88387e8cb30b7e-Abstract.html,https://github.com/xiaoboxia/Part-dependent-label-noise,3498
+P228,P570,paper-228,paper-570,2020,NIPS 2020,Identifying Mislabeled Data using the Area Under the Margin Ranking.,https://papers.nips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html,https://github.com/asappresearch/aum,3502
+P229,P571,paper-229,paper-571,2020,NIPS 2020,Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning.,https://papers.nips.cc/paper/2020/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html,,3506
+P230,P572,paper-230,paper-572,2020,NIPS 2020,Early-Learning Regularization Prevents Memorization of Noisy Labels.,https://papers.nips.cc/paper/2020/hash/ea89621bee7c88b2c5be6681c8ef4906-Abstract.html,https://github.com/shengliu66/ELR,3510
+P231,P573,paper-231,paper-573,2020,NIPS 2020,Coresets for Robust Training of Deep Neural Networks against Noisy Labels.,https://papers.nips.cc/paper/2020/hash/8493eeaccb772c0878f99d60a0bd2bb3-Abstract.html,https://github.com/snap-stanford/crust,3515
+P232,P574,paper-232,paper-574,2020,NIPS 2020,Robust Optimization for Fairness with Noisy Protected Groups.,https://papers.nips.cc/paper/2020/hash/37d097caf1299d9aa79c2c2b843d2d78-Abstract.html,https://github.com/wenshuoguo/robust-fairness-code,3519
+P233,P575,paper-233,paper-575,2020,NIPS 2020,A Topological Filter for Learning with Label Noise.,https://papers.nips.cc/paper/2020/hash/f4e3ce3e7b581ff32e40968298ba013d-Abstract.html,https://github.com/pxiangwu/TopoFilter,3523
+P234,P576,paper-234,paper-576,2020,NIPS 2020,Self-Adaptive Training: beyond Empirical Risk Minimization.,https://proceedings.neurips.cc//paper/2020/hash/e0ab531ec312161511493b002f9be2ee-Abstract.html,https://github.com/LayneH/self-adaptive-training,3527
+P235,P577,paper-235,paper-577,2020,NIPS 2020,Provably Consistent Partial-Label Learning.,https://papers.nips.cc/paper/2020/hash/7bd28f15a49d5e5848d6ec70e584e625-Abstract.html,,3532
+P236,P588,paper-236,paper-588,2020,ICML 2020,Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates.,http://proceedings.mlr.press/v119/liu20e,https://github.com/weijiaheng/Multi-class-Peer-Loss-functions | https://github.com/gohsyi/PeerLoss,3594
+P237,P589,paper-237,paper-589,2020,ICML 2020,Normalized Loss Functions for Deep Learning with Noisy Labels.,https://arxiv.org/abs/2006.13554,https://github.com/HanxunH/Active-Passive-Losses,3599
+P238,P590,paper-238,paper-590,2020,ICML 2020,SIGUA: Forgetting May Make Learning with Noisy Labels More Robust.,http://proceedings.mlr.press/v119/han20c.html,https://github.com/bhanML/SIGUA,3603
+P239,P591,paper-239,paper-591,2020,ICML 2020,Error-Bounded Correction of Noisy Labels.,http://proceedings.mlr.press/v119/zheng20c.html,https://github.com/pingqingsheng/LRT,3607
+P240,P592,paper-240,paper-592,2020,ICML 2020,Training Binary Neural Networks through Learning with Noisy Supervision.,http://proceedings.mlr.press/v119/han20d.html,https://github.com/zhaohui-yang/Binary-Neural-Networks,3611
+P241,P593,paper-241,paper-593,2020,ICML 2020,Searching to Exploit Memorization Effect in Learning with Noisy Labels.,http://proceedings.mlr.press/v119/yao20b.html,https://github.com/jerermyyoung/rtlearning,3615
+P242,P594,paper-242,paper-594,2020,ICML 2020,Learning with Bounded Instance and Label-dependent Label Noise.,http://proceedings.mlr.press/v119/cheng20c.html,,3619
+P243,P595,paper-243,paper-595,2020,ICML 2020,Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels.,http://proceedings.mlr.press/v119/jiang20c,,3623
+P244,P596,paper-244,paper-596,2020,ICML 2020,Does label smoothing mitigate label noise?.,http://proceedings.mlr.press/v119/lukasik20a.html,,3629
+P245,P597,paper-245,paper-597,2020,ICML 2020,Deep k-NN for Noisy Labels.,http://proceedings.mlr.press/v119/bahri20a.html,,3633
+P246,P604,paper-246,paper-604,2020,ICLR 2020,DivideMix: Learning with Noisy Labels as Semi-supervised Learning.,https://openreview.net/forum?id=HJgExaVtwr,https://github.com/LiJunnan1992/DivideMix,3670
+P247,P605,paper-247,paper-605,2020,ICLR 2020,Robust training with ensemble consensus.,https://openreview.net/forum?id=ryxOUTVYDH,https://github.com/jisoolee0123/Robust-training-with-ensemble-consensus,3674
+P248,P606,paper-248,paper-606,2020,ICLR 2020,SELF: Learning to Filter Noisy Labels with Self-Ensembling.,https://openreview.net/forum?id=HkgsPhNYPS,,3678
+P249,P613,paper-249,paper-613,2020,CVPR 2020,Combating noisy labels by agreement: A joint training method with co-regularization.,http://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html,https://github.com/hongxin001/JoCoR,3719
+P250,P614,paper-250,paper-614,2020,CVPR 2020,Distilling Effective Supervision From Severe Label Noise.,http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html,https://github.com/google-research/google-research/tree/master/ieg,3725
+P251,P615,paper-251,paper-615,2020,CVPR 2020,Self-Training With Noisy Student Improves ImageNet Classification.,http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html,https://github.com/google-research/noisystudent,3730
+P252,P616,paper-252,paper-616,2020,CVPR 2020,Training Noise-Robust Deep Neural Networks via Meta-Learning.,https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Training_Noise-Robust_Deep_Neural_Networks_via_Meta-Learning_CVPR_2020_paper.html,https://github.com/ZhenWang-PhD/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning,3734
+P253,P617,paper-253,paper-617,2020,CVPR 2020,Revisiting Knowledge Distillation via Label Smoothing Regularization.,https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.html,https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation,3738
+P254,P618,paper-254,paper-618,2020,CVPR 2020,Task Agnostic Robust Learning on Corrupt Outputs by Correlation-Guided Mixture Density Networks.,https://openaccess.thecvf.com/content_CVPR_2020/html/Choi_Task_Agnostic_Robust_Learning_on_Corrupt_Outputs_by_Correlation-Guided_Mixture_CVPR_2020_paper.html,,3743
+P255,P628,paper-255,paper-628,2020,ECCV 2020,Suppressing Mislabeled Data via Grouping and Self-Attention.,https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2633_ECCV_2020_paper.php,https://github.com/kaiwang960112/AFM,3800
+P256,P629,paper-256,paper-629,2020,ECCV 2020,NoiseRank: Unsupervised Label Noise Reduction with Dependence Models.,https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5921_ECCV_2020_paper.php,,3805
+P257,P638,paper-257,paper-638,2020,AAAI 2020,Reinforcement Learning with Perturbed Rewards.,https://arxiv.org/abs/1810.01032,https://github.com/wangjksjtu/rl-perturbed-reward,3855
+P258,P639,paper-258,paper-639,2020,AAAI 2020,Less Is Better: Unweighted Data Subsampling via Influence Function.,https://arxiv.org/abs/1912.01321,https://github.com/RyanWangZf/Influence_Subsampling,3859
+P259,P640,paper-259,paper-640,2020,AAAI 2020,Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data.,https://xuczhang.github.io/papers/aaai20_sprl.pdf,,3863
+P260,P645,paper-260,paper-645,2020,IJCAI 2020,Can Cross Entropy Loss Be Robust to Label Noise?,https://www.ijcai.org/proceedings/2020/305,,3891
+P261,P646,paper-261,paper-646,2020,IJCAI 2020,Label Distribution for Learning with Noisy Labels.,https://www.ijcai.org/proceedings/2020/356,,3896
+P262,P647,paper-262,paper-647,2020,IJCAI 2020,A Bi-level Formulation for Label Noise Learning with Spectral Cluster Discovery.,https://www.ijcai.org/proceedings/2020/361,,3901
+P263,P655,paper-263,paper-655,2020,ArXiv 2020,No Regret Sample Selection with Noisy Labels. (Published on Machine Learning),https://arxiv.org/pdf/2003.03179.pdf,https://github.com/songheony/TAkS,3959
