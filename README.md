@@ -17,6 +17,35 @@ A curated list of papers tagged as Classification LNL in the source README.
 ![Datasets](https://img.shields.io/badge/Datasets-0F766E)
 ![Other Robust Techniques](https://img.shields.io/badge/Other%20Robust%20Techniques-64748B)
 
+## Statistical Overview
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="outputs/figures/standard_classification_yearly_trend.png" alt="Publication trend in Standard Classification LNL" width="100%">
+      <br>
+      <sub>Publication trend by year.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="outputs/figures/technical_keyword_ranking.png" alt="Top technical keywords in Standard Classification LNL" width="100%">
+      <br>
+      <sub>Top technical keywords in Classification LNL.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="outputs/figures/standard_classification_top_conference_pie.png" alt="Top conference distribution in Standard Classification LNL" width="100%">
+      <br>
+      <sub>Top conference distribution from 2020 to 2026.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="outputs/figures/LNL_wordcloud_2020_to_2026.png" alt="Technical keyword word cloud from 2020 to 2026" width="100%">
+      <br>
+      <sub>Technical keyword word cloud for 2020-2026.</sub>
+    </td>
+  </tr>
+</table>
+
 ## Content
 
 - [Papers & Code in 2026](#papers--code-in-2026)
@@ -1348,4 +1377,3 @@ A curated list of papers tagged as Classification LNL in the source README.
 * <a id="paper-249"></a> **[P249]** No Regret Sample Selection with Noisy Labels. (Published on Machine Learning)
   ![Sample Selection](https://img.shields.io/badge/Sample%20Selection-F59E0B)
   [[Paper]](https://arxiv.org/pdf/2003.03179.pdf)[[Code]](https://github.com/songheony/TAkS)
-
