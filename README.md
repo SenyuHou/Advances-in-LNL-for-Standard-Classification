@@ -21,8 +21,8 @@ A curated list of papers tagged as Classification LNL in the source README.
 
 | Publication Trend | Technical Keywords |
 | --- | --- |
-| ![Publication trend in Standard Classification LNL](https://github.com/SenyuHou/Advances-in-LNL-for-Standard-Classification/raw/main/outputs/figures/standard_classification_yearly_trend.png)<br><sub>Publication trend by year.</sub> | ![Top technical keywords in Standard Classification LNL](https://github.com/SenyuHou/Advances-in-LNL-for-Standard-Classification/raw/main/outputs/figures/technical_keyword_ranking.png)<br><sub>Top technical keywords in Classification LNL.</sub> |
-| ![Top conference distribution in Standard Classification LNL](https://github.com/SenyuHou/Advances-in-LNL-for-Standard-Classification/raw/main/outputs/figures/standard_classification_top_conference_pie.png)<br><sub>Top conference distribution from 2020 to 2026.</sub> | ![Technical keyword word cloud from 2020 to 2026](https://github.com/SenyuHou/Advances-in-LNL-for-Standard-Classification/raw/main/outputs/figures/LNL_wordcloud_2020_to_2026.png)<br><sub>Technical keyword word cloud for 2020-2026.</sub> |
+| ![Publication trend in Standard Classification LNL](./outputs/figures/standard_classification_yearly_trend.png)<br><sub>Publication trend by year.</sub> | ![Top technical keywords in Standard Classification LNL](./outputs/figures/technical_keyword_ranking.png)<br><sub>Top technical keywords in Classification LNL.</sub> |
+| ![Top conference distribution in Standard Classification LNL](./outputs/figures/standard_classification_top_conference_pie.png)<br><sub>Top conference distribution from 2020 to 2026.</sub> | ![Technical keyword word cloud from 2020 to 2026](./outputs/figures/LNL_wordcloud_2020_to_2026.png)<br><sub>Technical keyword word cloud for 2020-2026.</sub> |
 
 ## Content
 
