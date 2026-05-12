@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!README.md
+
+!outputs/
+outputs/*
+!outputs/figures/
+outputs/figures/*
+!outputs/figures/standard_classification_yearly_trend.png
+!outputs/figures/technical_keyword_ranking.png
+!outputs/figures/standard_classification_top_conference_pie.png
+!outputs/figures/LNL_wordcloud_2020_to_2026.png
