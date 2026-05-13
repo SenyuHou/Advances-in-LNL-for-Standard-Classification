@@ -221,7 +221,7 @@ A curated list of papers tagged as Classification LNL in the source README.
 
 ### CVPR 2025
 
-* <a id="paper-024"></a> **[P024]** [[**Sxu**]](https://github.com/SenyuHou) Directional Label Diffusion Model for Learning from Noisy Labels.
+* <a id="paper-024"></a> **[P024]** [[**SXU**]](https://github.com/SenyuHou) Directional Label Diffusion Model for Learning from Noisy Labels.
   ![Noise Modeling](https://img.shields.io/badge/Noise%20Modeling-8B5CF6)
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Directional_Label_Diffusion_Model_for_Learning_from_Noisy_Labels_CVPR_2025_paper.html)[[Code]](https://github.com/SenyuHou/DLD)
 
@@ -463,7 +463,7 @@ A curated list of papers tagged as Classification LNL in the source README.
 
 ### AAAI 2024
 
-* <a id="paper-072"></a> **[P072]** [[**Sxu**]](https://github.com/SenyuHou) Which Is More Effective in Label Noise Cleaning, Correction or Filtering?
+* <a id="paper-072"></a> **[P072]** [[**SXU**]](https://github.com/SenyuHou) Which Is More Effective in Label Noise Cleaning, Correction or Filtering?
   ![Label Correction](https://img.shields.io/badge/Label%20Correction-3B82F6)
   ![Sample Selection](https://img.shields.io/badge/Sample%20Selection-F59E0B)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29183/30238)
